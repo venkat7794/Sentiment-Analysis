@@ -20,7 +20,7 @@ This repository contains a Python script that performs sentiment analysis on res
    pip install pandas numpy
    ```
 
-2. **Prepare the Dataset**: Ensure that you have a CSV file named `restaurant_reviews.csv` with a column named `review` containing the text of the restaurant reviews.
+2. **Prepare the Dataset**: Ensure that you have a CSV file named `Restaurant_Reviews.csv` with a column named `review` containing the text of the restaurant reviews.
 
 3. **Run the Script**: Run the Python script to classify the sentiment of the reviews:
 
