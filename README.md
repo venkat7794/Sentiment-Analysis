@@ -1,4 +1,4 @@
-Here is a README file for the sentiment analysis on restaurant reviews code using only pandas and numpy:
+
 
 **README.md**
 
